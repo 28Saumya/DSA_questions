@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/28Saumya/DSA_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/28Saumya/DSA_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
