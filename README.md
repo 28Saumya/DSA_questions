@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/28Saumya/DSA_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/28Saumya/DSA_questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -79,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
