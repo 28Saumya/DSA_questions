@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/28Saumya/DSA_questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/28Saumya/DSA_questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
