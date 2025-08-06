@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0503-next-greater-element-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/28Saumya/DSA_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/28Saumya/DSA_questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
