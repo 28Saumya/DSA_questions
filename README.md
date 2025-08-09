@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/28Saumya/DSA_questions/tree/master/0826-soup-servings) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/28Saumya/DSA_questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/28Saumya/DSA_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/28Saumya/DSA_questions/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
