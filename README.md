@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/28Saumya/DSA_questions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/28Saumya/DSA_questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
