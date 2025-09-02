@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/28Saumya/DSA_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/28Saumya/DSA_questions/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/28Saumya/DSA_questions/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/28Saumya/DSA_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/28Saumya/DSA_questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/28Saumya/DSA_questions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/28Saumya/DSA_questions/tree/master/0890-lemonade-change) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Design
 |  |
