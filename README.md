@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/28Saumya/DSA_questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/28Saumya/DSA_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/28Saumya/DSA_questions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/28Saumya/DSA_questions/tree/master/0239-sliding-window-maximum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/28Saumya/DSA_questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/28Saumya/DSA_questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/28Saumya/DSA_questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/28Saumya/DSA_questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/28Saumya/DSA_questions/tree/master/0678-valid-parenthesis-string) |
