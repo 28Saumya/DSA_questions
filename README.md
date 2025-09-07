@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/28Saumya/DSA_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/28Saumya/DSA_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/28Saumya/DSA_questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/28Saumya/DSA_questions/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/28Saumya/DSA_questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/28Saumya/DSA_questions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/28Saumya/DSA_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/28Saumya/DSA_questions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/28Saumya/DSA_questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/28Saumya/DSA_questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/28Saumya/DSA_questions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
