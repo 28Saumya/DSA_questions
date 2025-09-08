@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/28Saumya/DSA_questions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/28Saumya/DSA_questions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/28Saumya/DSA_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/28Saumya/DSA_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/28Saumya/DSA_questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/28Saumya/DSA_questions/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/28Saumya/DSA_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/28Saumya/DSA_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/28Saumya/DSA_questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/28Saumya/DSA_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
