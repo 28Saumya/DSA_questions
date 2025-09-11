@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/28Saumya/DSA_questions/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/28Saumya/DSA_questions/tree/master/0678-valid-parenthesis-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/28Saumya/DSA_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
 |  |
