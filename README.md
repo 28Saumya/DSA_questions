@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/28Saumya/DSA_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/28Saumya/DSA_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/28Saumya/DSA_questions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/28Saumya/DSA_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/28Saumya/DSA_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/28Saumya/DSA_questions/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
