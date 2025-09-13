@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
