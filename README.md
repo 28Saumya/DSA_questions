@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/28Saumya/DSA_questions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/28Saumya/DSA_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/28Saumya/DSA_questions/tree/master/0678-valid-parenthesis-string) |
 | [1006-vowel-spellchecker](https://github.com/28Saumya/DSA_questions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/28Saumya/DSA_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/28Saumya/DSA_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
