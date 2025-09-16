@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/28Saumya/DSA_questions/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/28Saumya/DSA_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/28Saumya/DSA_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/28Saumya/DSA_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/28Saumya/DSA_questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Array
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/28Saumya/DSA_questions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/28Saumya/DSA_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/28Saumya/DSA_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/28Saumya/DSA_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/28Saumya/DSA_questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/28Saumya/DSA_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/28Saumya/DSA_questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/28Saumya/DSA_questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/28Saumya/DSA_questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/28Saumya/DSA_questions/tree/master/0735-asteroid-collision) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/28Saumya/DSA_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/28Saumya/DSA_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
