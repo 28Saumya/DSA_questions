@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/28Saumya/DSA_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/28Saumya/DSA_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/28Saumya/DSA_questions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/28Saumya/DSA_questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/28Saumya/DSA_questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/28Saumya/DSA_questions/tree/master/0455-assign-cookies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/28Saumya/DSA_questions/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/28Saumya/DSA_questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/28Saumya/DSA_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/28Saumya/DSA_questions/tree/master/0678-valid-parenthesis-string) |
