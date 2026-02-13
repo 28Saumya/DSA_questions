@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/28Saumya/DSA_questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/28Saumya/DSA_questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/28Saumya/DSA_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3714-longest-balanced-substring-ii](https://github.com/28Saumya/DSA_questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/28Saumya/DSA_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/28Saumya/DSA_questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/28Saumya/DSA_questions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/28Saumya/DSA_questions/tree/master/3462-vowels-game-in-a-string) |
+| [3714-longest-balanced-substring-ii](https://github.com/28Saumya/DSA_questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3797-design-spreadsheet](https://github.com/28Saumya/DSA_questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/28Saumya/DSA_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/28Saumya/DSA_questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3714-longest-balanced-substring-ii](https://github.com/28Saumya/DSA_questions/tree/master/3714-longest-balanced-substring-ii) |
 ## Database
 |  |
 | ------- |
